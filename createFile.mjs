@@ -1,5 +1,5 @@
-// import{writeFile} from 'node:fs';
+ import{writeFile} from 'node:fs';
 
-// writeFile('./hello.html', '<h1> Learning Node.js </h1>', () =>{
-//     console.log('');
-// })
+ writeFile('./hello.html', '<h1> Learning Node.js </h1>', () =>{
+    console.log('');
+})
